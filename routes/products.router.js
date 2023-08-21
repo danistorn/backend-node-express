@@ -49,11 +49,6 @@ async (req, res, next) => {
 );
 
 
-{
-  "name": "Camisa",
-  "price": 1212
-}
-
 
 
 router.delete('/:id', async (req, res) => {
